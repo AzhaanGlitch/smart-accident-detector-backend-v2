@@ -1,0 +1,8 @@
+flask==3.0.3
+flask-cors==4.0.1
+tensorflow>=2.17.0
+numpy>=1.26.0
+pillow==10.4.0
+geopy==2.4.1
+gunicorn==22.0.0
+h5py>=3.10.0
